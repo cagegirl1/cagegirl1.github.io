@@ -1,0 +1,15 @@
+head{
+	background: url("unit_3/images/candypic.jpg");
+	background-size: cover;
+}
+body {
+	color: #FFC0CB;
+	text-align: center;
+	font-family: 'Kaushan Script';
+	}
+h1 {
+	font-size: 75px;
+	}
+h2 {
+	font-size: 25px;
+}
