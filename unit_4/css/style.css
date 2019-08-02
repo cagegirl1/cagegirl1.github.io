@@ -1,0 +1,24 @@
+body { 
+		background-color:#d99f0d;
+		color:rgb(0,0,0);
+		font-family: 'Cabin', sans-serif;
+	}
+h1 { 
+	text-align: center;
+	font-size: 60px;
+	margin-bottom: 20px;
+}
+h2 {
+	text-align: center;
+	font-size: 30px;
+	
+}
+img {
+	align-content: center;
+}
+
+
+}
+	p {
+	font-size: 15px;
+}
